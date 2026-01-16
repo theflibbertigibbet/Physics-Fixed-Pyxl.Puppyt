@@ -1,0 +1,5 @@
+{
+  "name": "Physics Engine unwinded",
+  "description": "A minimalist articulated figure posing tool rebuilt with React and TypeScript.",
+  "requestFramePermissions": []
+}
